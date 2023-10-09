@@ -1,0 +1,10 @@
+.navContainer {
+  background-color: #f1f5f9;
+  padding-left: 50px;
+  height: 15vh;
+  display: flex;
+  align-items: center;
+}
+.techLogo {
+  height: 80px;
+}

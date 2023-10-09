@@ -1,0 +1,13 @@
+.listContainer {
+  list-style-type: none;
+  padding: 0px;
+}
+.linkButton {
+  display: flex;
+  gap: 5px;
+  background-color: transparent;
+  height: 100px;
+  width: 150px;
+  align-items: center;
+  border: none;
+}

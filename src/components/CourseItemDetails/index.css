@@ -1,0 +1,19 @@
+.bgCourseContainer {
+  display: flex;
+  padding: 20px 50px;
+}
+.courseImg {
+  height: 60vh;
+}
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #ffffff;
+}
+.products-loader-container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
